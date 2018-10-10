@@ -1,0 +1,236 @@
+ body,html{
+    margin: 0;
+    padding: 0;
+    background-color: #474CA0;
+}
+
+ header{
+    width: 100%;
+    height: 60px;
+    background-color: #474CA0;
+
+}
+
+
+.botão {
+     background-color: transparent;
+     color: #B5B5B5;
+    border: 0;
+     outline: none;
+     -webkit-transition-duration: 0.4s; /* Safari */
+     transition-duration: 0.4s;
+     float: left;
+     margin-top: 14px;
+     margin-right: 7px;
+     padding: 15px 35px;
+     font-size: 16px;
+     cursor: pointer;
+
+}
+
+.botão:hover {
+
+    color: #fff;
+     outline: none;
+}
+
+
+.capa{
+  margin-top: 178;
+  float: right;
+}
+
+.capa2{
+margin-top: 80px;
+margin-left: 26%;
+color: #fff;
+position: absolute;
+
+}
+
+.but{
+margin-top: 210px;
+margin-left: -36%;
+color: #fff;
+position: absolute;
+border-radius: 15px;
+     outline: none;
+     -webkit-transition-duration: 0.4s; /* Safari */
+     transition-duration: 0.4s;
+border: 0;
+     padding: 10px 30px; /* Add some padding */
+font-size: 20px;
+
+}
+
+.but {background-color: #007BFF;} /* Green */
+.but:hover {background-color: #cb0133;}
+
+.but2{
+  margin-top: 210px;
+  margin-left: -10%;
+  color: #fff;
+  position: absolute;
+  border-radius: 15px;
+       outline: none;
+       -webkit-transition-duration: 0.4s; /* Safari */
+       transition-duration: 0.4s;
+       border: 0;
+       padding: 10px 30px; /* Add some padding */
+       font-size: 20px;
+
+
+}
+
+.but2 {background-color: #cb0133;} /* Green */
+.but2:hover {background-color: #007BFF;}
+
+.sobre_nois{
+
+   margin-left: 12%;
+   margin-right: 12%;
+   margin-top: 4%;
+   position: absolute;
+   color: #fff;
+}
+
+.Feedback{
+  margin-top: 7%;
+   border: 0px;
+  position: absolute;
+ padding: 120px 250px;
+ margin-left: -41%;
+}
+
+.Feedback2{
+  margin-top: 28%;
+   border: 0px;
+  position: absolute;
+ padding: 5px 72px;
+ margin-left: -41%;
+ border-radius: 5px;
+ text-align: center;
+}
+
+.Feedback3{
+  margin-top: 28%;
+   border: 0px;
+  position: absolute;
+ padding: 5px 72px;
+ margin-left: -15%;
+ border-radius: 5px;
+ text-align: center;
+}
+
+
+.Button_Feedback{
+  margin-top: 32%;
+   border: 0px;
+  position: absolute;
+ padding: 10px 317px;
+ margin-left: -41%;
+ border-radius: 5px;
+ color: #fff;
+ background-color: #007BFF;
+}
+
+
+.titulo_feedback{
+  color: #fff;
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 45px;
+}
+
+
+.cadastro{
+  margin-top: 10%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cadastro2{
+  margin-top: 50%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cadastro3{
+  margin-top: 90%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cadastro4{
+  margin-top: 130%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.Button_cadastro{
+  margin-top: 170%;
+   border: 0px;
+  position: absolute;
+ padding: 10px 100px;
+ margin-left: 75%;
+ border-radius: 5px;
+ color: #fff;
+ background-color: #007BFF;
+}
+
+.titulo_cadastro{
+  color: #fff;
+  position: absolute;
+  margin-left: 110%;
+  margin-top: -35px;
+}
+
+
+.Button_cadastro2{
+  margin-top: 80%;
+   border: 0px;
+  position: absolute;
+ padding: 10px 100px;
+ margin-left: 80%;
+ border-radius: 5px;
+ color: #fff;
+ background-color: #007BFF;
+}
+
+
+.titulo_cadastro2{
+  color: #fff;
+  position: absolute;
+  margin-left: 130%;
+  margin-top: -35px;
+}
+
+.login{
+  border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    border-radius: 20px;
+    float: right;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+.login {background-color: #4CAF50;} /* Green */
+.login:hover {background-color: #46a049;}
