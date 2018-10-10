@@ -144,7 +144,7 @@ font-size: 20px;
 
 
 .cadastro{
-  margin-top: 10%;
+  margin-top: 5%;
    border: 0px;
   position: absolute;
   padding: 5px 72px;
@@ -183,8 +183,18 @@ font-size: 20px;
   text-align: center;
 }
 
+.cadastro5{
+  margin-top: 190%;
+   border: 0px;
+  position: absolute;
+  padding: 20px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
 .Button_cadastro{
-  margin-top: 170%;
+  margin-top: 315%;
    border: 0px;
   position: absolute;
  padding: 10px 100px;
@@ -199,6 +209,13 @@ font-size: 20px;
   position: absolute;
   margin-left: 110%;
   margin-top: -35px;
+}
+
+.titulo_cadastro1{
+  color: #fff;
+  position: absolute;
+  margin-left: 41%;
+  margin-top: 23%;
 }
 
 
