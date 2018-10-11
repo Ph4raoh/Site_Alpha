@@ -115,3 +115,91 @@ h1
 }
 
 .volta_chat:hover {background-color: #46a049;}
+
+.met{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -98%;
+  margin-left: 90%;
+}
+
+.met:hover{
+  background-color: #007BFF;
+}
+
+
+
+.met2{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -81%;
+  margin-left: 90%;
+}
+
+.met2:hover{
+  background-color: #007BFF;
+}
+
+
+.met3{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -64%;
+  margin-left: 90%;
+}
+
+.met3:hover{
+  background-color: #007BFF;
+}
+
+
+.met4{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -46%;
+  margin-left: 90%;
+}
+
+.met4:hover{
+  background-color: #007BFF;
+}
+
+.met5{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -28%;
+  margin-left: 90%;
+}
+
+.met5:hover{
+  background-color: #007BFF;
+}
+
+.met6{
+  position: absolute;
+  padding: 15px 15px;
+  border: 0;
+  border-radius: 100%;
+  background-color: #cb0133;
+  margin-top: -12%;
+  margin-left: 90%;
+}
+
+.met6:hover{
+  background-color: #007BFF;
+}
