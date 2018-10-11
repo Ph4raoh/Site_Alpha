@@ -96,8 +96,22 @@ h1
   border-radius: 15px;
   padding: 1px 25px;
   cursor: pointer;
-  margin-top: -110%;
+  margin-top: -99%;
   margin-left: 1%;
 }
 
 .novo:hover {background-color: #46a049;}
+
+.volta_chat{
+  position: absolute;
+  background-color: #4CAF50;
+  color: #fff;
+  border: 0;
+  border-radius: 15px;
+  padding: 1px 25px;
+  cursor: pointer;
+  margin-top: -105%;
+  margin-left: 1%;
+}
+
+.volta_chat:hover {background-color: #46a049;}
