@@ -99,6 +99,17 @@ font-size: 20px;
  border-radius: 5px;
  text-align: center;
 }
+
+.Feedback5{
+  margin-top: 8%;
+   border: 0px;
+  position: absolute;
+ padding: 5px 72px;
+ margin-left: -26%;
+ border-radius: 5px;
+ text-align: center;
+}
+
 .Button_Feedback{
   margin-top: 32%;
    border: 0px;
@@ -109,12 +120,32 @@ font-size: 20px;
  color: #fff;
  background-color: #007BFF;
 }
+
+.Button_Feedback2{
+  margin-top: 28%;
+   border: 0px;
+  position: absolute;
+ padding: 10px 317px;
+ margin-left: -26%;
+ border-radius: 5px;
+ color: #fff;
+ background-color: #007BFF;
+}
+
 .titulo_feedback{
   color: #fff;
   position: absolute;
   margin-left: 43%;
   margin-top: 45px;
 }
+
+.titulo_feedback2{
+  color: #fff;
+  position: absolute;
+  margin-left: 45%;
+  margin-top: 45px;
+}
+
 .cadastro{
   margin-top: 5%;
    border: 0px;
@@ -282,7 +313,7 @@ font-size: 20px;
   margin-top: 310;
   position: absolute;
   padding: 50px 140px;
-  background-color: #F5F5F5;
+  background-color: #C9C8C4;
   margin-left: 25px;
 }
 .João_Avatar{

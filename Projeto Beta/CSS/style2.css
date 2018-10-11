@@ -47,3 +47,84 @@
     font-size: 22px;
     color: rgba(255, 255, 255, 0.6);
 }
+
+.fala1{
+  position: absolute;
+  background-color: #F5F5F5;
+  color: #000;
+  border-radius: 20px;
+  padding: 1px 15px;
+  margin-left: 24%;
+  margin-top: 5%;
+}
+
+.fala2{
+  position: absolute;
+  background-color: #F5F5F5;
+  color: #000;
+  border-radius: 20px;
+  padding: 1px 15px;
+  margin-left: 93%;
+  margin-top: 8%;
+}
+
+.fala3{
+  position: absolute;
+  background-color: #F5F5F5;
+  color: #000;
+  border-radius: 20px;
+  padding: 1px 15px;
+  margin-left: 24%;
+  margin-top: 12%;
+}
+
+.fala4{
+  position: absolute;
+  background-color: #F5F5F5;
+  color: #000;
+  border-radius: 20px;
+  padding: 1px 15px;
+  margin-left: 60%;
+  margin-top: 18%;
+}
+
+.fala5{
+  position: absolute;
+  background-color: #F5F5F5;
+  color: #000;
+  border-radius: 20px;
+  padding: 1px 15px;
+  margin-left: 24%;
+  margin-top: 22%;
+}
+
+.relatos{
+  margin-top: 38%;
+  border-radius: 20px;
+  position: absolute;
+  padding: 20px 105px;
+  background-color: #007BFF;;
+  margin-left: 25px;
+  color: #fff;
+  border: 0;
+  font-size: 20px;
+}
+
+.relatos:hover{
+  background-color: #cb0133;;
+  color: #fff;
+  transition:0.3s;
+}
+
+.sair{
+  margin-top: 42%;
+  position: absolute;
+  margin-left: 10%;
+  color: #fff;
+  cursor: pointer;
+}
+
+.sair:hover{
+  color: #000;
+  transition:0.3s;
+}
