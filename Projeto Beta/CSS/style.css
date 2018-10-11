@@ -153,6 +153,26 @@ font-size: 20px;
   text-align: center;
 }
 
+.cadastro_login{
+  margin-top: 10%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cadastro_email{
+  margin-top: 12%;
+   border: 0px;
+  position: absolute;
+  padding: 5px 72px;
+  margin-left: 28%;
+  border-radius: 5px;
+  text-align: center;
+}
+
 .cadastro2{
   margin-top: 50%;
    border: 0px;
