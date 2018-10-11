@@ -286,3 +286,125 @@ font-size: 20px;
   margin-top: 15%;
   margin-left: 38%;
 }
+
+
+.chat{
+  margin-top: 2%;
+  margin-left: 1%;
+  position: absolute;
+  padding: 270px 670px;
+  background-color: #FF6347;
+
+}
+
+.lista{
+  position: absolute;
+  background-color: #87CEEB;
+  padding: 270px 150px;
+  margin-top: 2%;
+  margin-left: 1%;
+
+}
+
+.pesquisa{
+  margin-top: 40;
+  position: absolute;
+  float: left;
+  margin-left: -29%;
+  padding: 8px 31px;
+  border: 0;
+  border-radius: 10px;
+}
+
+.botão_chat{
+  margin-top: 45;
+  position: absolute;
+  float: left;
+  margin-left: -155px;
+  border: 0;
+  padding: 5px 15px;
+  border-radius: 17px;
+  background-color: #828282;
+  color: #fff;
+}
+
+.joão{
+  margin-top: 90;
+  position: absolute;
+  padding: 50px 140px;
+  background-color: #F5F5F5;
+  margin-left: 25px;
+}
+
+.Luiza{
+  margin-top: 200;
+  position: absolute;
+  padding: 50px 140px;
+  background-color: #F5F5F5;
+  margin-left: 25px;
+}
+
+.Mauricio{
+  margin-top: 310;
+  position: absolute;
+  padding: 50px 140px;
+  background-color: #F5F5F5;
+  margin-left: 25px;
+}
+
+.João_Avatar{
+  margin-top: 110;
+  position: absolute;
+  padding: 30px 30px;
+  border-radius: 100%;
+  background-color: #5e0000;
+  margin-left: 35px;
+
+}
+
+.Luiza_Avatar{
+  margin-top: 220;
+  position: absolute;
+  padding: 30px 30px;
+  border-radius: 100%;
+  background-color: #5e0000;
+  margin-left: 35px;
+
+}
+
+.Mauricio_Avatar{
+  margin-top: 330;
+  position: absolute;
+  padding: 30px 30px;
+  border-radius: 100%;
+  background-color: #5e0000;
+  margin-left: 35px;
+
+}
+
+.escrever{
+  margin-top: 467;
+  position: absolute;
+  padding: 50px 520px;
+  background-color: #DCDCDC;
+  margin-left: 314px;
+}
+
+.escrever2{
+  margin-top: 480;
+  position: absolute;
+  padding: 28px 370px;
+  background-color: #fff;
+  margin-left: -90px;
+  border: 0;
+}
+
+
+.envia_chat{
+  margin-top: 490;
+  position: absolute;
+  background-color: #fff;
+  margin-left: 840px;
+  padding: 20px 20px;
+  border: 0;
+}
